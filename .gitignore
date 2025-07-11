@@ -1,0 +1,30 @@
+# Node modules (dependencies folder)
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+logs/
+*.log
+
+# OS/System files
+.DS_Store
+Thumbs.db
+
+# IDE/editor configs
+.vscode/
+.idea/
+
+# Build outputs (optional, depending on your setup)
+dist/
+build/
+
+# Optional: local MongoDB data (if any dumped)
+dump/
+
+# Optional: Postman environment files or sensitive config
+*.postman_environment.json
